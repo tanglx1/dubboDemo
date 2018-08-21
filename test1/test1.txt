@@ -1,3 +1,7 @@
 test1
 master and new 
 new 1
+=======
+branch1 and new 
+new brach1
+>>>>>>> branch1
